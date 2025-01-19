@@ -28,7 +28,7 @@ except UnsupportedFileTypeError as e:
 - Leverages LangChain's robust document loaders.
 - Easy-to-use and extensible.
 
-#License
+# License
 
 docsuite is released under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
