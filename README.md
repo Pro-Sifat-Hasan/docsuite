@@ -7,7 +7,7 @@ A Python library that automatically detects file types and loads documents using
 pip install docsuite
 ```
 
-#Usage
+# Usage
 
 ```python
 from docsuite import UnifiedDocumentLoader
@@ -22,11 +22,11 @@ except UnsupportedFileTypeError as e:
     print(e)
 ```
 
-#Features
+# Features
 
--Automatically detects document types (e.g., TXT, PDF, CSV).
--Leverages LangChain's robust document loaders.
--Easy-to-use and extensible.
+- Automatically detects document types (e.g., TXT, PDF, CSV).
+- Leverages LangChain's robust document loaders.
+- Easy-to-use and extensible.
 
 #License
 
